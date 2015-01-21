@@ -1,0 +1,41 @@
+
+{
+{"userId" "{98df92a8-2f49-7571-1321-ec611947b81c}" "firstName" "Shankara" "middleName" "" "lastName" "Raman" "emailAddress" "shankar@kroger.com" "loyaltyCardNumber" "481001068853" "homePhoneNumber" "5138945623" "mobilePhoneNumber" "8597458965" "dateCreated" "07/10/2014 122903.113" "dateOfBirth" "12/05/1989" "dateRegistrationConfirmed" "07/10/2014 122903.297" "dateLastLogon" "09/25/2014 083409.870" "dateLastPasswordChange" "08/26/2014 143835.890" "isEmailConfirmed" true "address" {
+  "addressLine1" "Street Name"
+  "city" "City"
+  "stateCode" "OH"
+  "zip" "45852"
+  "countryCode" "US"
+} "bannerSpecificDetails" [
+  {
+    "bannerName" "kroger"
+    "preferredStoreNumber" "00376"
+    "preferredDivisionNumber" "014"
+    "userEmailPreferences" [
+      {
+        "id" "Weekly Circular"
+        "shortDescription" "Weekly Ad"
+        "longDescription" "<b><u>Weekly Ad</u></b> - Send me the weekly ad and information about store specials from my local Kroger store to my inbox each week."
+        "selected" false
+        "banner" "kroger"
+        "sortOrder" "1"
+      }
+      {
+        "id" "Special Promotions and Opportunities"
+        "shortDescription" "Specials & Promotions"
+        "longDescription" "<b><u>Specials & Promotions</u></b> - Send me digital coupons exclusive offers specials promotions and more.  I can expect these emails once a week though from time to time I may receive an additional email with exclusive offers or promotions just for me!"
+        "selected" false
+        "banner" "kroger"
+        "sortOrder" "2"
+      }
+      {
+        "id" "Monthly Newsletter"
+        "shortDescription" "Monthly Newsletter - Coming Soon!"
+        "longDescription" "<b><u>Monthly Newsletter - Coming Soon!</u></b> Send me a monthly newsletter with recipe ideas health tips community events local store happenings and more!"
+        "selected" false
+"banner"" ""kroger }"
+        "sortOrder" "3"
+      }
+    ]
+  }
+}
